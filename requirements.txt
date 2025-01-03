@@ -1,0 +1,8 @@
+streamlit
+pymongo
+certifi
+psycopg2-binary
+SQLAlchemy
+pandas
+folium
+streamlit-folium
